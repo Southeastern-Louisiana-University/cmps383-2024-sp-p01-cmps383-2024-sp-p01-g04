@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc.Testing;
 using Microsoft.AspNetCore.Mvc.Testing.Handlers;
 using Microsoft.Extensions.Configuration.Memory;
 using Microsoft.Net.Http.Headers;
+using Microsoft.VisualStudio.TestPlatform.TestHost;
 
 namespace Selu383.SP24.Tests.Helpers;
 

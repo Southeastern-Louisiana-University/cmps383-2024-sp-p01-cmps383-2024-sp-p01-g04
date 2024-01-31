@@ -2,6 +2,7 @@ using System.Collections;
 using System.Reflection;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.VisualStudio.TestPlatform.TestHost;
 using Selu383.SP24.Tests.Helpers;
 
 namespace Selu383.SP24.Tests;
